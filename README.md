@@ -2,25 +2,6 @@
 
 <br />
 
-## 👇 Index
-- [👇 Index](#-index)
-- [✨ Features](#-features)
-- [🚀 Usage](#-usage)
-  - [🏡 As Home Page](#-as-home-page)
-  - [➕ As New Tab](#-as-new-tab)
-  - [🐳 In a Docker Container](#-in-a-docker-container)
-    - [Docker run](#docker-run)
-    - [docker-compose](#docker-compose)
-- [🎨 Customization](#-customization)
-  - [👋 General: Name, Image Background and Greetings](#-general-name-image-background-and-greetings)
-  - [📐 Layouts: Bento, Lists and Buttons.](#-layouts-bento-lists-and-buttons)
-  - [🏷️ Buttons \& Links](#️-buttons--links)
-  - [📑 Lists \& Links](#-lists--links)
-  - [⛈️ Weather: Api Key, Icons and Unit](#️-weather-api-key-icons-and-unit)
-  - [💛 Colors](#-colors)
-  - [🌑 Auto change theme](#-auto-change-theme)
-
-
 ## 🚀 Usage
 
 ### 🏡 As Home Page
